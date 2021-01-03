@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/paulyhedral/.anyenv/envs/pyenv/versions/3.8.5/bin/python",
+    "python.formatting.provider": "autopep8"
+}
